@@ -1,2 +1,25 @@
 # -react-user-crud
-A React-based User Management Application with Create, Read, Update, and Delete (CRUD) functionalities. Includes client-side search and filtering, and is deployed on a free hosting platform
+This is a Users Management App built using React.js and Axios, allowing users to:
+
+- View a paginated list of users.
+
+Search and filter users.
+
+Create new users.
+
+Edit existing users.
+
+Delete users.
+
+- Features
+
+Client-side search & filtering
+
+CRUD operations (Create, Read, Update, Delete)
+
+Pagination for better navigation
+
+- API Used
+This app uses the ReqRes API for dummy user data:
+
+https://reqres.in/api/users
